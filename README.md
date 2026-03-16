@@ -8,7 +8,6 @@
 <img src="https://img.shields.io/badge/Hyprland-00E5FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=gnu-bash"/>
-<img src="https://img.shields.io/badge/Open_Source-❤️-red?style=for-the-badge"/>
 
 </div>
 
@@ -34,26 +33,6 @@ echo "building tools, automating linux and experimenting"
 <h2 align="center">🖥️ system_fetch</h2>
 
 <pre>
-                   -`                   
-                  .o+`                  
-                 `ooo/                  
-                `+oooo:                 
-               `+oooooo:                
-               -+oooooo+:               
-             `/:-:++oooo+:              
-            `/++++/+++++++:             
-           `/++++++++++++++:            
-          `/+++ooooooooooooo/`          
-         ./ooosssso++osssssso+`         
-        .oossssso-````/ossssss+`        
-       -osssssso.      :ssssssso.       
-      :osssssss/        osssso+++.      
-     /ossssssss/        +ssssooo/-      
-   `/ossssso+/:-        -:/+osssso+-    
-  `+sso+:-`                 `.-/+oso:   
- `++:.                           `-/+/  
- .`                                 `/  
-----------------------------------------
 OS      : Arch Linux
 WM      : Hyprland
 Shell   : zsh
@@ -67,7 +46,7 @@ User    : tsakoskkj
 <h2 align="center">⚙️ tech stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,linux,git,bash,github,neovim,vscode,java,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,linux,git,bash,github,neovim,html,css"/>
 </p>
 
 ---
@@ -87,19 +66,7 @@ User    : tsakoskkj
 <h2 align="center">🔥 activity graph</h2>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsakoskkj&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<h2 align="center">🐍 contribution snake</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
@@ -131,13 +98,11 @@ for project in dev.build():
 
 ---
 
-<h2 align="center">🧪 dev sticker</h2>
+<h2 align="center">🧪 dev life</h2>
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260"/>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
-
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 </p>
 
 ---
