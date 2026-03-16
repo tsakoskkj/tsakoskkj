@@ -1,38 +1,28 @@
-<div align="center">
-  
-# ❄️ `tsakoskkj`
-<kbd> Arch Linux </kbd> • <kbd> Hyprland </kbd> • <kbd> LazyVim </kbd>
+# ⚡ tsakoskkj
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tsakoskkj&color=cba6f7&style=flat-square&label=VISITS)
-![Last Commit](https://img.shields.io/github/last-commit/tsakoskkj/tsakoskkj?color=a6e3a1&style=flat-square&label=UPTIME)
-
-<br/>
-
----
-
-### 📂 .config/autostart
-**`core`** :: Python, C++, Assembly  
-**`rice`** :: Waybar, Rofi, Hyprpaper  
-
-
----
-
-### 📊 system_monitor.sh
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tsakoskkj&theme=catppuccin&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsakoskkj&layout=compact&langs_count=6&theme=catppuccin&hide_border=true" width="45%" />
-
-<br/>
-
-### 🌌 activity_log.c
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsakoskkj&theme=catppuccin" width="95%" />
-
----
-
-<p align="right">
-  <samp>“Less is more. Fast is better.”</samp>
+<p align="left">
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-</div>
+---
+
+### 💻 System & Environment
+Desenvolvedor focado em ambientes minimalistas e performance de baixo nível. Mantendo sistemas baseados em **Arch Linux** com foco em eficiência de hardware e automação.
+
+- **Window Manager:** Hyprland (Wayland)
+- **Editor:** Neovim (LazyVim configuration)
+- **Terminal:** Zsh / Alacritty
+- **Workflow:** Terminal-centric, focado em produtividade via atalhos.
+
+---
+
+### 🛠️ Core Stacks & Development
+```python
+class Profile:
+    def __init__(self):
+        self.languages = ["Python", "C++", "Assembly", "Java"]
+        self.interests = ["Low-level Programming", "Kernel Optimization", "System Ricing"]
+        self.current_focus = "Custom Language Implementation in C++"
