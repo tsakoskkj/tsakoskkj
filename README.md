@@ -1,28 +1,36 @@
-# ⚡ tsakoskkj
+<div align="center">
+  
+  # ❄️ [ Welcome to tsakoskkj's config.md ]
+  
+  <kbd> <kbd>A</kbd> rch Linux</kbd> • <kbd> <kbd>H</kbd> yprland</kbd> • <kbd> <kbd>L</kbd> azyVim</kbd>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</p>
+<br>
 
----
+<samp>
+:: System Uptime: Stable  
+:: Core Services: Functional
+</samp>
 
-### 💻 System & Environment
-Desenvolvedor focado em ambientes minimalistas e performance de baixo nível. Mantendo sistemas baseados em **Arch Linux** com foco em eficiência de hardware e automação.
-
-- **Window Manager:** Hyprland (Wayland)
-- **Editor:** Neovim (LazyVim configuration)
-- **Terminal:** Zsh / Alacritty
-- **Workflow:** Terminal-centric, focado em produtividade via atalhos.
+<br>
 
 ---
 
-### 🛠️ Core Stacks & Development
+## 🔗 Connect with me
+  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Zsh](https://img.shields.io/badge/Shell-Zsh-black?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 🖥️ workflow.conf
+
+- **WM:** `Hyprland` (Wayland)
+- **Editor:** `Neovim` (via LazyVim)
+- **Terminal:** `Alacritty`
+- **Focus:** Performance-centric and minimal-bloat systems.
+
 ```python
 class Profile:
     def __init__(self):
-        self.languages = ["Python", "C++", "Assembly", "Java"]
-        self.interests = ["Low-level Programming", "Kernel Optimization", "System Ricing"]
-        self.current_focus = "Custom Language Implementation in C++"
+        self.languages = ["Python", "C++", "Assembly"]
+        self.interests = ["Low-level Programming", "Ricing", "Optimization"]
